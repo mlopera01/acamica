@@ -1,2 +1,2 @@
 # acamica
-Repositorio curso Data Science Acamica 2021
+Repositorio Curso Data Science Acamica 2021
